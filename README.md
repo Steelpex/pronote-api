@@ -1,5 +1,5 @@
 Mirror of [Litarvan/pronote-api](https://github.com/Litarvan/pronote-api)
-# Pronote API - LISEZ MOI ABSOLUMENT
+# Snokyo Ctrl Pronote API - LISEZ MOI ABSOLUMENT
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/dorian-eydoux/pronote-api/Node.js%20linting%20and%20testing/master?label=tests&logo=github&style=flat-square)
 [![MIT license](https://img.shields.io/badge/license-MIT-lightgray?style=flat-square)](LICENSE)
