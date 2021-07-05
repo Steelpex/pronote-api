@@ -86,11 +86,11 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
 ### Librairie
 
 ```
-$ npm i --save @dorian-eydoux/pronote-api
+$ npm i --save @Steelpex/pronote-api
 ```
 
 ```javascript
-const pronote = require('@dorian-eydoux/pronote-api');
+const pronote = require('@Steelpex/pronote-api');
 
 // Exemple
 const url = 'https://demo.index-education.net/pronote/';
